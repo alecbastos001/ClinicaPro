@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "vercel dev"  // Adiciona script de inicialização para o Vercel
+    "start": "vercel dev"
   },
   "keywords": [],
   "author": "",
