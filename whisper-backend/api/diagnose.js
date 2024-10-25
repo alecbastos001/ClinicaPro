@@ -4,7 +4,7 @@ export default function handler(req, res) {
 
     let diagnostico = '';
 
-    // Lógica de diagnóstico simples
+    // Lógica simples de diagnóstico
     if (transcript.includes('febre') && transcript.includes('dor de cabeça')) {
       diagnostico = 'Possível diagnóstico: Gripe ou Infecção viral';
     } else {
