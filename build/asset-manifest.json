@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/IA_Church/static/css/main.3d1cc401.chunk.css",
-    "main.js": "/IA_Church/static/js/main.239142ad.chunk.js",
-    "main.js.map": "/IA_Church/static/js/main.239142ad.chunk.js.map",
-    "runtime-main.js": "/IA_Church/static/js/runtime-main.d26fbab8.js",
-    "runtime-main.js.map": "/IA_Church/static/js/runtime-main.d26fbab8.js.map",
-    "static/js/2.166bd388.chunk.js": "/IA_Church/static/js/2.166bd388.chunk.js",
-    "static/js/2.166bd388.chunk.js.map": "/IA_Church/static/js/2.166bd388.chunk.js.map",
-    "index.html": "/IA_Church/index.html",
-    "static/css/main.3d1cc401.chunk.css.map": "/IA_Church/static/css/main.3d1cc401.chunk.css.map",
-    "static/js/2.166bd388.chunk.js.LICENSE.txt": "/IA_Church/static/js/2.166bd388.chunk.js.LICENSE.txt"
+    "main.css": "/ClinicaPro/static/css/main.3d1cc401.chunk.css",
+    "main.js": "/ClinicaPro/static/js/main.7c7792e0.chunk.js",
+    "main.js.map": "/ClinicaPro/static/js/main.7c7792e0.chunk.js.map",
+    "runtime-main.js": "/ClinicaPro/static/js/runtime-main.4be648fd.js",
+    "runtime-main.js.map": "/ClinicaPro/static/js/runtime-main.4be648fd.js.map",
+    "static/js/2.cfee22ed.chunk.js": "/ClinicaPro/static/js/2.cfee22ed.chunk.js",
+    "static/js/2.cfee22ed.chunk.js.map": "/ClinicaPro/static/js/2.cfee22ed.chunk.js.map",
+    "index.html": "/ClinicaPro/index.html",
+    "static/css/main.3d1cc401.chunk.css.map": "/ClinicaPro/static/css/main.3d1cc401.chunk.css.map",
+    "static/js/2.cfee22ed.chunk.js.LICENSE.txt": "/ClinicaPro/static/js/2.cfee22ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d26fbab8.js",
-    "static/js/2.166bd388.chunk.js",
+    "static/js/runtime-main.4be648fd.js",
+    "static/js/2.cfee22ed.chunk.js",
     "static/css/main.3d1cc401.chunk.css",
-    "static/js/main.239142ad.chunk.js"
+    "static/js/main.7c7792e0.chunk.js"
   ]
 }

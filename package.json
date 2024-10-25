@@ -1,5 +1,5 @@
 {
-  "name": "ia_church",
+  "name": "clinica_pro",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -15,9 +15,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+	"predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://alecbastos001.github.io/IA_Church",
+  "homepage": "https://alecbastos001.github.io/ClinicaPro",
   "browserslist": {
     "production": [
       ">0.2%",
