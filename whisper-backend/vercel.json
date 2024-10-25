@@ -3,13 +3,11 @@
   "builds": [
     {
       "src": "api/**/*.mjs",
-      "use": "@vercel/node",
-      "config": {
-        "zeroConfig": false
-      }
+      "use": "@vercel/node"
     }
   ],
   "engines": {
     "node": "16.x"
-  }
+  },
+  "zeroConfig": false
 }
