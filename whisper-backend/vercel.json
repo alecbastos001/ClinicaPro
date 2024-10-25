@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/**/*.mjs",
+      "use": "@vercel/node",
+      "config": {
+        "zeroConfig": false
+      }
+    }
+  ],
+  "engines": {
+    "node": "16.x"
+  }
+}
